@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joshhmckee
+- 👋 Hi, I’m Josh
 - 👀 I’m interested in Mathematical Finance and Machine Learning 
 - 🌱 I’m currently learning about HFT and option pricing and volatility
 - 📫 How to reach me j4mckee@uwaterloo.ca
