@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Josh
-- 👀 I’m interested in Mathematical Finance and Machine Learning 
-- 🌱 I’m currently learning about HFT and option pricing and volatility
-- 📫 How to reach me j4mckee@uwaterloo.ca
+- 👋 Hi there, I’m Josh
+- 👀 I’m interested in Business, Software Development and Asset Management
+- 🌱 I’m currently learning about DSA and building large software from the ground up
+- 📫 Reach me at j4mckee@uwaterloo.ca
 
 <!---
 joshhmckee/joshhmckee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
