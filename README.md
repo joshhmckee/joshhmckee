@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Josh
 - 👀 I’m interested in Business, Software Development and Asset Management
-- 🌱 I’m currently learning about DSA and building large software apps from the ground up
+- 🌱 I’m currently learning about value investing and financal asset pricing
 - 📫 Reach me at j4mckee@uwaterloo.ca
 
 <!---
